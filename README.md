@@ -2,6 +2,8 @@
 
 ### Live Site: [Book Comrade](https://book-comrade.web.app/)
 
+## Technology Used:   
+React, React Router, React Query, Axios, Firebase, Tailwind, Nodejs, Express, MongoDB
 
 ### Features:
 
